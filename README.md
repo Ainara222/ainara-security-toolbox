@@ -14,6 +14,7 @@ Este repositorio se desarrolla teniendo en cuenta las principales normativas y e
 
 [Politica de seguridad de la información](https://www.ccn-cert.cni.es/es/series-ccn-stic/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/508-ccn-stic-805-politica-de-seguridad-de-la-informacion/file.html)
 
+[Glosario de términos y abreviaturas del ENS](https://www.ccn-cert.cni.es/es/series-ccn-stic/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/499-ccn-stic-800-glosario-de-terminos-y-abreviaturas-del-ens/file.html) – Este enlace lleva al glosario oficial del Esquema Nacional de Seguridad (ENS), donde se explican los términos, abreviaturas y conceptos clave utilizados en la normativa española de seguridad de la información.
 
 - **RGPD (Reglamento General de Protección de Datos)**  
   Principios clave: licitud, transparencia, finalidad limitada, minimización de datos, integridad, confidencialidad y responsabilidad proactiva. Incluye obligaciones sobre consentimiento, derechos de usuario y notificación de brechas.
