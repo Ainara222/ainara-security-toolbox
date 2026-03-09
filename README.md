@@ -11,8 +11,7 @@ Este repositorio se desarrolla teniendo en cuenta las principales normativas y e
 
 - **ENS (Esquema Nacional de Seguridad, RD 311/2022)**  
   Establece directrices sobre políticas de seguridad, roles y procedimientos para entidades públicas y privadas. Incluye requisitos mínimos como gestión de riesgos, control de accesos, continuidad del negocio y mejora continua.
-
-[Politica de seguridad de la información](https://www.ccn-cert.cni.es/es/series-ccn-stic/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/508-ccn-stic-805-politica-de-seguridad-de-la-informacion/file.html)
+   [Politica de seguridad de la información](https://www.ccn-cert.cni.es/es/series-ccn-stic/guias/series-ccn-stic/800-guia-esquema-nacional-de-seguridad/508-ccn-stic-805-politica-de-seguridad-de-la-informacion/file.html)
 
 
 - **RGPD (Reglamento General de Protección de Datos)**  
