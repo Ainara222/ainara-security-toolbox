@@ -1,4 +1,4 @@
-# 🛠️ Cybersecurity Audit: Command Reference Guide
+# 🛠️ Auditoria Ciberseguridad: Referencia de comandos de Kali linux
 
 Este fichero centraliza los comandos esenciales para la fase de **reconocimiento, análisis de red y auditoría de sistemas**. Es mi guía rápida de referencia para ejecutar herramientas de seguridad directamente desde la terminal.
 
