@@ -156,6 +156,6 @@ Posibles delitos:
 
 Este mapa conceptual resume los principales elementos del Sistema de Gestión de Compliance Penal (SGCP) y sus conexiones con las normativas aplicables.
 
-![Mapa conceptual de NDC03](assets/NDC03-map.png)
+![Mapa conceptual de NDC03](../assets/NDC03-map.png)
 
 ---
