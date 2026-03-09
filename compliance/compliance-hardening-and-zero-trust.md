@@ -18,12 +18,6 @@ El bastionado no es solo una configuración técnica; es una respuesta a la evol
 
 ---
 
-## 🖼️ Referencia Visual: El Escudo del Sistema
-![Concepto de Hardening y protección de activos](./assets/hardening-concept.png)  
-*Atribución: Kaspersky (Dominio Público)*
-
----
-
 ## 📋 2. La Necesidad del Bastionado
 El objetivo es proteger las tres dimensiones de la seguridad (**CIA**): **Confidencialidad, Integridad y Disponibilidad**. Además, existen imperativos legales como el **RGPD** (Reglamento General de Protección de Datos).
 
