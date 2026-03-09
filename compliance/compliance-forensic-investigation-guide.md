@@ -21,12 +21,6 @@ No es simplemente recolectar datos, sino **contar una historia** basada en hecho
 
 ---
 
-## 🖼️ Referencia Visual: Escenario de Investigación
-![Analista forense identificando evidencias en la escena](./assets/escena-forense.png)  
-*Atribución: Pixabay (Dominio Público)*
-
----
-
 ## 🏢 2. Caso Práctico: El primer caso de María
 **Contexto:** María, analista del equipo DFIR, debe investigar un ataque contra una entidad financiera donde se ha robado dinero y varios sistemas han quedado inoperativos.
 
