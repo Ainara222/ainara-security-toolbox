@@ -5,6 +5,8 @@
 
 ---
 
+![Mapa conceptual de Protección y Amenazas de la Información](../assets/CC0-map.png)
+
 ## 🌐 1. Cibernética y Ciberseguridad
 La **Cibernética** estudia los flujos de información y su autocontrol. La **Ciberseguridad**, por tanto, es la aplicación de estrategias de seguridad clásica a este entorno.
 
@@ -58,10 +60,6 @@ Para pasar de la situación actual (**AS IS**) a la situación deseada (**TO BE*
 * **Auditoría de Red y Perímetro:** Revisión de infraestructuras.
 * **Auditoría Web:** Análisis de vulnerabilidades en portales.
 * **Auditoría Forense:** Investigación tras un incidente grave (brecha de datos, ransomware) para depurar responsabilidades.
-
-
-
-![Mapa conceptual de Protección y Amenazas de la Información](../assets/CC0-map.png)
 
 
 ### Mejora Continua (Kaizen)
